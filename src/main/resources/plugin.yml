@@ -1,0 +1,4 @@
+name: AntiTooExpensive
+version: '${project.version}'
+main: de.skipall.antitooexpensive.AntiTooExpensive
+api-version: '1.20'
